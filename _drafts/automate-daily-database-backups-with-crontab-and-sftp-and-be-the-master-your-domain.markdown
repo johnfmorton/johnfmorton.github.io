@@ -3,6 +3,7 @@ title: Automate daily database backups with crontab and SFTP and be the master y
 date: 2013-10-26 16:02:00
 layout: post
 url: http://supergeekery.com/geekblog/comments/automate-daily-database-backups-with-crontab-and-sftp
+featureimage: daily_backup_cron_job_opt.gif
 ---
 I recently worked on a site which saved data in it’s local database which needed to be collected and sent each day to a remote server via SFTP for analysis. Needless to say, I didn’t want to manually do this process every day, but I had never fully explored cron jobs, so I had to teach myself about cron jobs while I figured out the problem at hand. Here’s how I ended up automating the job.
 
