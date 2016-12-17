@@ -1,0 +1,16 @@
+{
+	"folders":
+	[
+		{
+			"path": "."
+		},
+		{
+			"name": "Images",
+			"path": "img"
+		},
+		{
+			"name": "Drafts",
+			"path": "_drafts"
+		}
+	]
+}
