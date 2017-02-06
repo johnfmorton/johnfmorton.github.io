@@ -1,5 +1,5 @@
 ---
-title: Tutorial Using Gulp with htmlprocess and concatenate
+title: "Tutorial: Using Gulp with htmlprocess and concatenate"
 layout: post
 date: 2015-08-10 11:57:00
 ---
