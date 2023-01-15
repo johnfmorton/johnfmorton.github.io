@@ -10,4 +10,4 @@ The main purpose of this page is so that my Mastodon account will verify that my
 
 ![Mastodon verification](./mastodon-verification.png)
 
-For more about this repo, see the page that inspired me to make it at https://til.simonwillison.net/mastodon/verifying-github-on-mastodon.
+For more about this repo, see Simon Willison’s page that inspired me to make it at https://til.simonwillison.net/mastodon/verifying-github-on-mastodon.
